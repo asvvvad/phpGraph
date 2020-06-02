@@ -14,7 +14,7 @@
 ##################################################################
 # @update     2017-12-27
 # @copyright  2013-2017 Cyril MAGUIRE
-# @licence    http://cecill.info/licences/Licence_CeCILL_V2.1-en.html CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL version 2.1
+# @licence    http://cecill.info/licences/Licence_CeCILL_V2.1-en.txt CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL version 2.1
 # @link       http://jerrywham.github.io/phpGraph/
 # @version    1.4
 #
