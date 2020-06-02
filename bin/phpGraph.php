@@ -228,10 +228,11 @@ class phpGraph
 
 		$heightLegends = 0;
 		if (isset($legends) && !empty($legends)) {
-			if (\is_string($legends)) {
+			if (\is_string($legends))
 				$legends = [$legends];
-			}
-			$heightLegends = count($legends) * 30 + 2 * $paddingTop;
+
+			if (is_array($legends))
+				$heightLegends = count($legends) * 30 + 2 * $paddingTop;
 		}
 
 		$pie = '';
